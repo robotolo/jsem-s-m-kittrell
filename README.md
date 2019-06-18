@@ -18,7 +18,7 @@ následně git clone https://github.com/jamesrobo/jsem-s-m-kittrell.git
 následně mohu upravovat
 
 
-updating repositori
+updating repository from computer
 
 dostatanu se v power shellu do projektu
 cd C:\Users\21gkittrell.DGKRALUPY\Documents\jsem-s-m-kittrell
