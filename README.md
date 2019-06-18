@@ -28,4 +28,5 @@ git add .
 git commit -m 'some change'
 git push -u origin master
 
-a mám updatlí
+a mám updatlí pracoval kittrell
+
