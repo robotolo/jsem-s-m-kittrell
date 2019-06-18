@@ -28,5 +28,5 @@ git add .
 git commit -m 'some change'
 git push -u origin master
 
-a mám updatlí pracoval kittrell
+a mám updatlí pracoval kittrell na 2 počítačích
 
